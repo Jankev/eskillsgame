@@ -4,7 +4,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.eskillsgame"
 		version="0.0.1">
-	<name>eskillsgame</name>
+	<name>eskillsgame</Jankev>
+<description> This eskills game was developed at the ITgirls bring it on event by Jane Mc Allister and Caoimhe Kearns</description> 
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
